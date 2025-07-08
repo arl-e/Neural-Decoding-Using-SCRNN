@@ -14,5 +14,4 @@
 * main.py: SCRNN or SCNN by setting the RNN variable to `True` of `False` respectively
 * main_FFNN.py: FFNN
 * main_RNN.py: RNN
-# Test
-* I was just testing
+
